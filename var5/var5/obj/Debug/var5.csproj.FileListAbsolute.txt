@@ -1,0 +1,11 @@
+C:\Users\Татьяна\Downloads\var5\var5\bin\Debug\var5.exe.config
+C:\Users\Татьяна\Downloads\var5\var5\bin\Debug\var5.exe
+C:\Users\Татьяна\Downloads\var5\var5\bin\Debug\var5.pdb
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.Form1.resources
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.csproj.GenerateResource.cache
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.exe
+C:\Users\Татьяна\Downloads\var5\var5\obj\Debug\var5.pdb
